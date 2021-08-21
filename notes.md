@@ -24,6 +24,9 @@
 
 5. **require** all other libraries (mongoose, dotenv, helmet, and morgan)
 
+### Initialize git repository
+and create .gitignore file for .env before creating .env file in step 6
+
 6. **touch .env** in outermost folder
 
 7. **Create a mongoDB cluster**
