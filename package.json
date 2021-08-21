@@ -1,0 +1,25 @@
+{
+  "name": "poco_social",
+  "version": "1.0.0",
+  "description": "Social media website",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "social",
+    "media",
+    "poco",
+    "grow"
+  ],
+  "author": "Nabila Ayaba <nabila.ayaba@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "helmet": "^4.6.0",
+    "mongoose": "^5.13.7",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.12"
+  }
+}
